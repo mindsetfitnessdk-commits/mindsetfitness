@@ -1,0 +1,23 @@
+# Skabelon: content brief for hver side
+
+- Sidens navn:
+- URL:
+- Status: planlagt / udkast / godkendt / publiceret
+- Målgruppe:
+- Primært brugerbehov og søgeintention:
+- Primært søgeord (hypotese, verificeres):
+- Relaterede søgeord:
+- SEO-title:
+- Meta description:
+- H1:
+- H2/H3-struktur:
+- Introduktion med direkte svar:
+- Marcos egne erfaringer og faglige kilder:
+- Bevis og troværdighed:
+- Billeder/videoer + rettigheder + alt-tekst:
+- Social thumbnail (1200 × 630):
+- CTA:
+- Interne links ind/ud:
+- Structured data (kun relevante, faktiske typer):
+- Kvalitetstest:
+- Ansvarlig godkendelse:
